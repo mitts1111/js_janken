@@ -1,0 +1,49 @@
+/* ここから下に記載していく */
+main{
+      margin: 0 ;
+      padding: 0 ;
+      text-align:center;
+      font-size:  32px;
+  }
+  header{ 
+      background-color:#ccc;
+      border-bottom :  1px solid#3333;
+      text-align:center;
+  }
+  h1{
+      text-align:center;
+  }
+  main{
+      border-bottom : 1px #ccc ;
+  }
+  
+  footer{
+      background-color: #fff ;
+      border-bottom : 1px solid#ccc ;
+      text-align:center;
+  }
+  p {
+      font-size:200%;
+      text-align:after;
+      border-bottom :1px  solid #fff;
+      height: 200Px;
+  }
+  ul {
+      padding:  0 ;
+      border-top :  1px solid#000000 ;
+      display:table;  /* 定義 */
+      table-layout:fixed;
+      width: 100%;
+  }
+  
+  li{
+      list-style-type: style type none;
+      border:  1px solid #666;
+      background-color:  #FFF;
+      display:table-cell;  /* 定義 */
+      cursor:pointer;
+  }
+  re-hover{
+      background-color:#0066CC ;
+      color:#FFF;
+  }
